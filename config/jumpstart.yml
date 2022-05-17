@@ -1,0 +1,16 @@
+--- !ruby/object:Jumpstart::Configuration
+application_name: Mixed Play Douh
+business_name: Mixed Play Douh, Inc.
+domain: example.com
+support_email: how-you-doing@playdouhway.com
+default_from_email: Jumpstart <support@example.com>
+business_address: |-
+  123 Childish Way
+  Happy Path, Oregon 90218
+background_job_processor: async
+email_provider: ''
+personal_accounts: true
+solargraph: false
+register_with_account: false
+apns: false
+fcm: false
