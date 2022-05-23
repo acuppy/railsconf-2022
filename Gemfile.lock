@@ -427,8 +427,9 @@ GEM
     tilt (2.0.10)
     timeout (0.2.0)
     ttfunk (1.7.0)
-    turbo-rails (1.0.1)
+    turbo-rails (1.1.1)
       actionpack (>= 6.0.0)
+      activejob (>= 6.0.0)
       railties (>= 6.0.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
@@ -512,7 +513,7 @@ DEPENDENCIES
   sprockets-rails (>= 3.4.1)
   standard
   stimulus-rails (~> 1.0, >= 1.0.2)
-  turbo-rails (~> 1.0, >= 1.0.1)
+  turbo-rails (~> 1.1)
   tzinfo-data
   web-console (>= 4.1.0)
   webdrivers
